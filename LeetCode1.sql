@@ -22,7 +22,7 @@ where a.salary > b.salary
 
 
 --Write an SQL query to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL.
---Return the result table in any order.
+--Return the result table in any order
 --The query result format is in the following example.
 
 select email as Email from Person
